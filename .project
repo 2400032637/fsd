@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>hiber</name>
+=======
+	<name>jdbc54</name>
+>>>>>>> 1782586bf2d0c6ad81f780ef86cc8d29b8d6ce0c
 	<comment></comment>
 	<projects>
 	</projects>
